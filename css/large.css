@@ -267,7 +267,7 @@ label{
 }
 
 .tab-panels .panel{
-	/*display:none;*/    /*  UNCOMMENT THIS SO ONLY THE ACTIVE DIV SHOWS    */
+	display:none;    /*  UNCOMMENT THIS SO ONLY THE ACTIVE DIV SHOWS    */
 	background:#D6DCD6;
 	/*padding: 30px;*/
 	border-radius: 0 0 10px 10px;
